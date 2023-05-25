@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#rodape{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: darkslategray;
+    color: khaki;
+    font-size: 30px;
+}
+canvas{
+    border: 5px dotted rgba(89, 225, 157, 0.3);
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(255, 0, 247, 0.375);
+}
